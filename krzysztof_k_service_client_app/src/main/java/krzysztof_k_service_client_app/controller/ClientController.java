@@ -10,7 +10,6 @@ import javax.validation.Valid;
 import java.util.Collection;
 
 @RestController
-@ResponseBody
 @RequestMapping("/clients")
 public class ClientController {
 
